@@ -51,11 +51,11 @@ Here's a showcase of the terminal interface when running `ai_terminal.py`:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.iu.edu/agawrys/B351-Fall2025-FinalProject-agawrys-benproff/assets/23694/80a5e37b-9c1d-4faf-9b3f-b0e44babfb1f" width="400"/>
+      <img src="https://github.com/user-attachments/assets/cab451d5-8e59-4cab-bbdd-a95bed4646e5" width="400"/>
       <br><sub><b>(a)</b> The game begins with an empty board and prompts the user to choose difficulty.</sub>
     </td>
     <td align="center">
-      <img src="https://github.iu.edu/agawrys/B351-Fall2025-FinalProject-agawrys-benproff/assets/23694/0711b73a-af9c-4615-806a-7b2475c2fe39" width="400"/>
+      <img src="https://github.com/user-attachments/assets/30ca2c3c-c5c7-410c-8044-720204de431d" width="400"/>
       <br><sub><b>(b)</b> An example of an AI win with the final board state.</sub>
     </td>
   </tr>
@@ -106,35 +106,35 @@ To play the game, simply run the file itself: `python pygame_gui.py`.
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.iu.edu/agawrys/B351-Fall2025-FinalProject-agawrys-benproff/assets/23694/eb91ccb8-f74d-4f7a-af5f-d519090304fb" width="300"/><br/>
+      <img src="https://github.com/user-attachments/assets/f1bbc65a-fdeb-42f0-b0a4-06d969cae58f" width="300"/><br/>
       <em>(a) Name Entry</em>
     </td>
     <td align="center">
-      <img src="https://github.iu.edu/agawrys/B351-Fall2025-FinalProject-agawrys-benproff/assets/23694/faaed427-a99e-4101-85fe-72a7132f108f" width="300"/><br/>
+      <img src="https://github.com/user-attachments/assets/f05e5771-dcf2-478e-9fa8-a3b9a5fcb2a4" width="300"/><br/>
       <em>(b) Select Turn Order</em>
     </td>
     <td align="center">
-      <img src="https://github.iu.edu/agawrys/B351-Fall2025-FinalProject-agawrys-benproff/assets/23694/2f621758-2057-4293-b9fd-0a6b6d4355f5" width="300"/><br/>
+      <img src="https://github.com/user-attachments/assets/f07a215f-c495-4220-8e06-6c354cf0675e" width="300"/><br/>
       <em>(c) Choose Difficulty</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.iu.edu/agawrys/B351-Fall2025-FinalProject-agawrys-benproff/assets/23694/c9f5dbc2-c516-4ae5-897b-24482b58dd76" width="300"/><br/>
+      <img src="https://github.com/user-attachments/assets/0a65fd0e-52f8-478e-a9af-ed8754c8145e" width="300"/><br/>
       <em>(d) Game start</em>
     </td>
     <td align="center">
-      <img src="https://github.iu.edu/agawrys/B351-Fall2025-FinalProject-agawrys-benproff/assets/23694/53a571e9-5bac-4030-b7e2-3fc31270ed6a" width="300"/><br/>
+      <img src="https://github.com/user-attachments/assets/ed2890dd-fe9c-48cb-8169-dff0d986f65e" width="300"/><br/>
       <em>(e) Mid Game</em>
     </td>
     <td align="center">
-      <img src="https://github.iu.edu/agawrys/B351-Fall2025-FinalProject-agawrys-benproff/assets/23694/901ed440-a25b-47be-9f4f-9d9c84a7071c" width="300"/><br/>
+      <img src="https://github.com/user-attachments/assets/24bc7186-4683-4260-b894-0d5aeeaa9f2a" width="300"/><br/>
       <em>(f) Game Ende</em>
     </td>
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <img src="https://github.iu.edu/agawrys/B351-Fall2025-FinalProject-agawrys-benproff/assets/23694/b48a82a6-0a3b-439e-864f-1e23e6ab3806" width="300"/><br/>
+      <img src="https://github.com/user-attachments/assets/810d97be-4b63-471f-a8c6-de5b55207dc2" width="300"/><br/>
       <em>(g) Quit Screen</em>
     </td>
   </tr>
